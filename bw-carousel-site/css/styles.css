@@ -1,0 +1,42 @@
+.image-carousel {
+    max-height: 600px;
+}
+
+.image-carousel-item{
+    max-height: 600px;
+}
+
+.product-image{
+    height: 150px;
+    width: 150px;
+    background: grey;
+    border-radius: 50%;
+    margin:0 auto;
+    background-image: url(..//assets/img/pexels-jacob-colvin-1761279.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.product-img-1{
+    background-image: url(..//assets/img/product.jpg);
+}
+
+.product-img-2{
+    background-image: url(..//assets/img/featurette.jpg);
+}
+
+.product-img-3{
+    background-image: url(..//assets/img/carousel.jpg);
+}
+
+.feature-img-box{
+    height: 500px;
+    width: 100%;
+}
+
+.feature-img-box img{
+    height: 100%;
+    width: 100%;
+}
+
